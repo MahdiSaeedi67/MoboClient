@@ -13,6 +13,7 @@ const WIDTH = Dimensions.get("window").width;
 const ContactUs = (props) => {
   return (
     <SafeAreaView style={styles.page}>
+      
       <Text>ContactUs</Text>
     </SafeAreaView>
   );
